@@ -22,3 +22,11 @@ RepoXRay is a comprehensive interface application developed under the TÜBİTAK 
 1. Clone the repository:
    ```bash
    git clone https://github.com/batuaribakir/RepoXRay-MedRAX-Interface.git
+## Notes
+- FireBaseHelper.cs file removed for security reasons
+- Drop file functionallity should be improved
+- Ddit profile functionality should be improved
+- Folder bindings and designs should be improved
+- After logging out, the system is entered with any text. This error should be corrected
+- convert report to PDF or Word functionality should be improved
+- Multi-user feature should be added
